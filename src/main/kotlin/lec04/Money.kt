@@ -1,4 +1,4 @@
-package lec4
+package lec04
 
 data class Money (
     val amount: Long

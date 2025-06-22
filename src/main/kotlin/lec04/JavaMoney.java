@@ -1,4 +1,4 @@
-package lec4;
+package lec04;
 
 import java.util.Objects;
 import org.jetbrains.annotations.NotNull;
