@@ -1,6 +1,5 @@
 package lec01
 
-import Person
 
 /**
  * 코틀린에서 변수를 다루는 방법

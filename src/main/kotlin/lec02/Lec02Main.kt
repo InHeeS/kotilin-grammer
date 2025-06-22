@@ -1,6 +1,5 @@
 package lec02
 
-import Person
 import java.lang.IllegalArgumentException
 
 /**
